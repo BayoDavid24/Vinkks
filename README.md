@@ -1,3 +1,3 @@
 # Vinkks
 This is my first Repository
-this is my first commit
+This is my first commit
